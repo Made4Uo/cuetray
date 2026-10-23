@@ -55,16 +55,9 @@ Each one can be changed in settings.
 
 ## Where cues are kept
 
-Cues are plain files in a `.cuetray` folder inside your project, kept out of your git commits:
-
-```text
-.cuetray/
-  004_2026-10-19_170211_hide-expired-coupons/
-    note.md      your message, exactly as you typed it
-    1.png        the screenshots, in the order you added them
-  hold/          cues on hold
-  done/          cues already picked up
-```
+Cues are plain files in a `.cuetray` folder inside your project, kept out of your git commits.
+Each cue holds your message, exactly as you typed it, and its screenshots. Cues on hold and
+finished cues are kept in their own folders next to the waiting ones.
 
 There is no account and no cloud sync. CueTray goes online for three things only: update checks
 to this repository's releases, a refund check once a day while a license key is entered, and
