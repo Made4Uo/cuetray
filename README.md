@@ -4,7 +4,7 @@ Snip a screenshot, write what you want done, and queue it as a numbered cue in y
 When your AI coding assistant is free, `/next-cue` hands it the next cue, screenshots included.
 For Claude Code, Codex and Gemini CLI, on Windows 10 and 11.
 
-**[Download for Windows](https://cuetray.com/download)** · [Guide](https://cuetray.com/guide) · [cuetray.com](https://cuetray.com)
+**[Download for Windows](https://cuetray.com/download)** · [Microsoft Store](https://apps.microsoft.com/detail/XP99TT35B6MSP2) · [Guide](https://cuetray.com/guide) · [cuetray.com](https://cuetray.com)
 
 <img src="images/cuetray-cues.png" width="760" alt="The CueTray window: a project's numbered cues, each with its message and screenshots, one on hold, and the box for the next cue">
 
@@ -68,6 +68,7 @@ Details: [cuetray.com/privacy](https://cuetray.com/privacy).
 
 - Windows 10 or 11, 64-bit. CueTray installs for your Windows user only, with no administrator prompt.
 - Download from [cuetray.com/download](https://cuetray.com/download), or `CueTray-Setup-<version>.exe` from the [latest release](https://github.com/Made4Uo/cuetray/releases/latest) here. The "Source code" files GitHub adds to every release aren't the app.
+- Or install it from the [Microsoft Store](https://apps.microsoft.com/detail/XP99TT35B6MSP2), or from a terminal: `winget install XP99TT35B6MSP2`
 - The installer is signed by Made4Uo LLC. Because CueTray is new, Windows may show "Windows protected your PC": click **More info**, check that the publisher is Made4Uo LLC, then click **Run anyway**.
 - CueTray updates itself from the releases here and installs a new version the next time it restarts. It accepts only updates signed by Made4Uo LLC.
 
